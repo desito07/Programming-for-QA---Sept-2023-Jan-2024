@@ -1,6 +1,6 @@
-QA-Automation-Courses---Sept--Jan--May-2023-2024
+Programming for QA---Sept-2023
 
-1. Programming for QA
+Programming for QA
 	- Programming Fundamentals and Unit Testing
 		-- First Steps in Programming. Data Types and Variables. Conditional Statements
 		-- Loops: While and For Loops. Nested Loops
@@ -18,6 +18,3 @@ QA-Automation-Courses---Sept--Jan--May-2023-2024
 		-- OOP Principles: Inheritance, Exceptions, Encapsulation
 		-- OOP Principles: Interfaces, Abstraction and Polymorphism
 
-2. Back-End Test Automation 
-
-3. Front-End Test Automation
