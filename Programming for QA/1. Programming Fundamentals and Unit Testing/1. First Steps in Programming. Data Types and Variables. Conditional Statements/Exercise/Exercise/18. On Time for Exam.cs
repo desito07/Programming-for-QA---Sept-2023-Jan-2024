@@ -1,4 +1,4 @@
-﻿namespace _1
+namespace _18._On Time for Exam
 {
     internal class Program
     {
@@ -16,7 +16,7 @@
             {
                 Console.WriteLine("Late");
                 int minDifference = minArivalTotal - minExamStartTotal;
-                if (minDifference < 60)
+                if (minDifference <= 60)
                 {
                     Console.WriteLine($"{minDifference} minutes after the start");
                 }
@@ -44,9 +44,12 @@
             }
             else
             {
-                Console.WriteLine("On time");
                 int minDiff = minExamStartTotal - minArivalTotal;
-                Console.WriteLine($"{minDiff} minutes before the start");
+                Console.WriteLine("On time");
+                if (minDiff != 0)
+                {
+                    Console.WriteLine($"{minDiff} minutes before the start");
+                }
             }
         }
     }
