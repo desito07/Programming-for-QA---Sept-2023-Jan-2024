@@ -1,4 +1,4 @@
-namespace _04;
+namespace _04. Exam Preparation
 class Program
 {
     static void Main(string[] args)
