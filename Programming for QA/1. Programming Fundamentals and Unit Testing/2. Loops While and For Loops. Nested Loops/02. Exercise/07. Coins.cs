@@ -1,5 +1,3 @@
-using System;
-
 namespace 07. Coins
 {
     class Program
