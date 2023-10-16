@@ -1,6 +1,5 @@
 Programming for QA---Sept-2023
 
-Programming for QA
 	- Programming Fundamentals and Unit Testing
 		-- First Steps in Programming. Data Types and Variables. Conditional Statements
 		-- While and For Loops
