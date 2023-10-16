@@ -3,11 +3,11 @@ Programming for QA---Sept-2023
 Programming for QA
 	- Programming Fundamentals and Unit Testing
 		-- First Steps in Programming. Data Types and Variables. Conditional Statements
-		-- Loops: While and For Loops. Nested Loops
-		-- Methods, Unit Testing, and NUnit
+		-- While and For Loops
+		-- Nested Loops and Methods
 		-- Arrays and Lists
-		-- Using Classes and Objects. Defining Simple Classes
-		-- Practical Project: Creating a Console-Based Game
+		-- Unit Testing - Methods & Unit Testing - Arrays and Lists
+		-- Exam Preparation
 
 	- Programming Advanced for QA
 		-- Strings and Regular Expressions
