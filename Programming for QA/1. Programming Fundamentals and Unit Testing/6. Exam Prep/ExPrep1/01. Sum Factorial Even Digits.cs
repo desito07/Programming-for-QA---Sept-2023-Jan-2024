@@ -8,34 +8,33 @@
 //int result = CalculateFactorial(4);
 //Console.WriteLine(result);
 
-int result = int.Parse(Console.ReadLine());
+int n = int.Parse(Console.ReadLine());
 int sum = 0;
 
-while (result != 0)
-{
-    int digit = result % 10;
 
-    if(digit % 2 == 0)
+while (n != 0)
+{
+    int digit = n % 10;
+
+    if (digit % 2 == 0)
     {
-        int resultFactorial = CalculateFactorial(digit);
-        sum += resultFactorial;
+        int factorial = CalculateFactorial(digit);
+        sum += factorial;
     }
     //Console.WriteLine(digit);
-    result = result / 10;
+    n = n / 10;
 }
-
 Console.WriteLine(sum);
+
 static int CalculateFactorial(int num)
 {
-    int result = 1;
-
+    int factor = 1;
     while (num > 0)
     {
-        result = result * num;
+        factor = factor * num;
         num -= 1;
     }
-
-    return result;
+    return factor;
 }
 
 
