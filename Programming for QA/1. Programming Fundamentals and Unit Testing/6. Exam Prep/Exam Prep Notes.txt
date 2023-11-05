@@ -1,0 +1,40 @@
+- Паролата за изпита е: pf-for-qa
+- Код за Sli.do: #prgm-for-qa
+
+int[] array = Console.ReadLine()   
+                .Split(" ")            
+                .Select(int.Parse)   
+                .ToArray();
+
+List<int> numbers = Console.ReadLine()
+                .Split(" ")
+                .Select(int.Parse)
+                .ToList();
+
+int digit = result % 10;
+result = result / 10;
+
+- разписване на логиката на лист и хартия
+- разбиване на задачата - по всяка една цифра, четно или нечетно
+- гугъл 
+- чат-а 
+
+[TestCase] - последната част от лекцията на Тео и Pascal Triangle (exam prep 2)
+
+какви типове даннни се приемат 
+
+public void Test_PrintTriangle_ShouldReturnCorrectString(int n, string expected)
+[TestCase(1, "1 \n")]  -> int, string
+
+public void Test_FoldArray_ReturnsCorrectString(int[] arr, string expected)
+[TestCase(new int[] {1, 2, 3, 4}, "3 7")] -> new arr [], string
+
+Еdge cases in Judge - стойностите, които виждаме около метода
+- гледаме метода - ако има null exception в метода значи, ще има и такъв тест 
+- ако е стринг -  1. без елемент, 2. с един елемент, 3. с няколко елемента, 4. с правилна поредица, 5. с грешна поредица
+- ако е метод с число - 1. с отрицателно число, 2. с число 0, 3. с малко положително, 4. с голямо положително, 
+
+за bool и задача без bool - exa; prep 2 -> 2:19
+
+Ако искаме да видим как работи метода и да му зададем стойности, които после ще тестваме, отиваме на .cs file -> copy static -> 0:50 Exam Prep 3
+Console.WriteLine(GetFile(" ") - името на метода  
