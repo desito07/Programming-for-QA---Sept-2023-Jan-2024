@@ -1,7 +1,7 @@
 Programming for QA---Sept-2023
 
 	- Programming Fundamentals and Unit Testing
-		-- First Steps in Programming. Data Types and Variables. Conditional Statements
+		-- First Steps in Programming, Data Types and Variables, Conditional Statements
 		-- While and For Loops
 		-- Nested Loops and Methods
 		-- Arrays and Lists
@@ -9,10 +9,9 @@ Programming for QA---Sept-2023
 		-- Exam Preparation
 
 	- Programming Advanced for QA
-		-- Strings and Regular Expressions
-		-- Dictionaries (Associative Arrays)
-		-- Lambda Expressions and LINQ
-		-- Defining Classes
-		-- Defining Classes Advanced (Static Members, Generics, Iterators, Events)
-		-- OOP Principles: Inheritance, Exceptions, Encapsulation
-		-- OOP Principles: Interfaces, Abstraction and Polymorphism
+		-- Strings, Text Processing and Regular Expressions - Unit Testing
+		-- Dictionaries, Lambda and LINQ (Associative Arrays) - Unit Testing
+		-- Objects, Classes, Definning Classes - Unit Testing
+		-- Exception Handling - Unit Testing
+		-- OOP Principles: Encapsulation, Inheritance, Abstraction, Polymorphism - Unit Testing
+		-- Exam Preparation
