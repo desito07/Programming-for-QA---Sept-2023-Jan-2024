@@ -9,9 +9,9 @@ Programming for QA---Sept-2023
 		-- Exam Preparation
 
 	- Programming Advanced for QA
-		-- Strings, Text Processing and Regular Expressions - Unit Testing
+		-- Strings, Text Processing, and Regular Expressions - Unit Testing
 		-- Dictionaries, Lambda and LINQ (Associative Arrays) - Unit Testing
-		-- Objects, Classes, Definning Classes - Unit Testing
+		-- Objects, Classes, Defining Classes - Unit Testing
 		-- Exception Handling - Unit Testing
 		-- OOP Principles: Encapsulation, Inheritance, Abstraction, Polymorphism - Unit Testing
 		-- Exam Preparation
